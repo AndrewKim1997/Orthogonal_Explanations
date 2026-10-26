@@ -79,7 +79,7 @@ Release validation covers all eight scripts' extraction and syntax, the example,
   title = {Orthogonal Explanations for Machine Learning in Financial Econometrics},
   year = {2026},
   note = {Manuscript and accompanying research software},
-  howpublished = {\url{https://github.com/AndrewKim1997/OrthogonalExplanations}}
+  howpublished = {\url{https://github.com/AndrewKim1997/Orthogonal_Explanations}}
 }
 ```
 
