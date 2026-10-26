@@ -7,8 +7,8 @@ authors:
     given-names: Dongseok
     affiliation: "Gachon University"
 version: 0.1.0
-repository-code: "https://github.com/AndrewKim1997/OrthogonalExplanations"
-url: "https://github.com/AndrewKim1997/OrthogonalExplanations"
+repository-code: "https://github.com/AndrewKim1997/Orthogonal_Explanations"
+url: "https://github.com/AndrewKim1997/Orthogonal_Explanations"
 license: MIT
 keywords:
   - explainable artificial intelligence

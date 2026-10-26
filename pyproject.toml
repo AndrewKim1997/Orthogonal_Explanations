@@ -13,8 +13,8 @@ authors = [{name = "Dongseok Kim"}]
 dependencies = ["numpy>=1.26,<3", "scikit-learn>=1.3,<2"]
 
 [project.urls]
-Repository = "https://github.com/AndrewKim1997/OrthogonalExplanations"
-Issues = "https://github.com/AndrewKim1997/OrthogonalExplanations/issues"
+Repository = "https://github.com/AndrewKim1997/Orthogonal_Explanations"
+Issues = "https://github.com/AndrewKim1997/Orthogonal_Explanations/issues"
 
 [project.optional-dependencies]
 experiments = [
