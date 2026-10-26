@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and this repository when using the code."
+type: software
+title: "Orthogonal Explanations for Machine Learning in Financial Econometrics"
+authors:
+  - family-names: Kim
+    given-names: Dongseok
+    affiliation: "Gachon University"
+version: 0.1.0
+repository-code: "https://github.com/AndrewKim1997/OrthogonalExplanations"
+url: "https://github.com/AndrewKim1997/OrthogonalExplanations"
+license: MIT
+keywords:
+  - explainable artificial intelligence
+  - local feature attribution
+  - financial econometrics
+  - machine learning
+  - COLA

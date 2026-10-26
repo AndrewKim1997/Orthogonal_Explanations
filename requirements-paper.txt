@@ -1,0 +1,5 @@
+# Versions explicitly pinned in the supplied appendix installation cells.
+# This supplements pyproject.toml; original runtime freeze files were not supplied.
+-e .[experiments]
+scikit-learn==1.6.1
+xgboost==3.4.1

@@ -1,0 +1,79 @@
+{
+  "source": "archive/orthogonal_explanations.py",
+  "source_sha256": "f0dda01b4ce8c3d2e9311705895c8982cdd619d81cc596260c383868738f55a5",
+  "transformation": "Replace notebook headers and dependency-installation cells; retain each scientific body verbatim.",
+  "experiments": [
+    {
+      "path": "experiments/01_explanation_quality.py",
+      "title": "Experiment 1: explanation quality and shared-response inference",
+      "source_lines": [
+        12,
+        1918
+      ],
+      "sha256": "19d882dbf36cc584e09ad217fe596c58fe8b41ff846ed7b9ae64b351e660cdcc"
+    },
+    {
+      "path": "experiments/02_financial_associations.py",
+      "title": "Experiment 2: financial associations in French 100",
+      "source_lines": [
+        1922,
+        3519
+      ],
+      "sha256": "9505b155f9131707a8e01c670b6cb02da9e0eee592ed83c2e2f7247fc410a5d7"
+    },
+    {
+      "path": "experiments/03_cross_dataset_compatibility.py",
+      "title": "Experiment 3: cross-dataset and cross-model compatibility",
+      "source_lines": [
+        3523,
+        6146
+      ],
+      "sha256": "2299e3f3f6ce1d9a5e26f1afc25fd5b01e1185e254631e291b1cfb8f20cbc102"
+    },
+    {
+      "path": "experiments/04_case_study.py",
+      "title": "Case study: five analyses of one frozen OLS explanation panel",
+      "source_lines": [
+        6150,
+        6916
+      ],
+      "sha256": "bb685a9422594f45af5bcacd45034407d5cbb7cc94470d89df6f01d31f6d7f55"
+    },
+    {
+      "path": "experiments/05_conditional_reference.py",
+      "title": "Appendix C.1: conditional reference ablation",
+      "source_lines": [
+        6920,
+        8401
+      ],
+      "sha256": "2383f3e0a3e8e56526ebb84024c9c20e01ea0712ef0607e49023a504c1d917dd"
+    },
+    {
+      "path": "experiments/06_feature_order.py",
+      "title": "Appendix C.2: feature-order sensitivity",
+      "source_lines": [
+        8405,
+        10048
+      ],
+      "sha256": "4e148da20ba9071ba6b9d9d639e155ae6ffa1d8aa4275f1238e408d9da25a2ac"
+    },
+    {
+      "path": "experiments/07_integration_budget.py",
+      "title": "Appendix C.3: integration budget and sampling",
+      "source_lines": [
+        10052,
+        11777
+      ],
+      "sha256": "32630e47905182c262b146bb9fe61ceea826b383d4a81fede1764d9e4cedb8b5"
+    },
+    {
+      "path": "experiments/08_downstream_specifications.py",
+      "title": "Appendix C.4: downstream specification robustness",
+      "source_lines": [
+        11781,
+        13704
+      ],
+      "sha256": "a0c84cb5908ef8b4077cccefd18caf33759ac238ac8d43d71933914f61c0226e"
+    }
+  ]
+}
